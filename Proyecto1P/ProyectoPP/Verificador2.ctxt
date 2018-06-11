@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Verificador2
+comment0.text=\r\n\ LEER\ README.TXT\r\n\ \r\n\ @author\ CRISTHIAN\ ZENTENO\ BRA\u00D1EZ\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b
+comment1.target=java.lang.String\ sonIsomorfosSugerencia(Grafo,\ Grafo)
+comment10.params=matriz
+comment10.target=java.lang.String\ imprimir(int[][])
+comment2.params=a\ b
+comment2.target=java.lang.String\ revisarAristas(Grafo,\ Grafo)
+comment3.params=a\ b
+comment3.target=java.lang.String\ diferencias(int[][],\ int[][])
+comment4.params=lista
+comment4.target=int\ menor(java.util.ArrayList)
+comment5.params=grafo\ num
+comment5.target=Grafo\ aumentarVertices(Grafo,\ int)
+comment6.params=matriz
+comment6.target=int[][]\ transpuesta(int[][])
+comment7.params=a\ b
+comment7.target=int\ comparar(int[][],\ int[][])
+comment8.params=a\ b
+comment8.target=int[][]\ multi(int[][],\ int[][])
+comment9.params=grafo
+comment9.target=java.lang.String\ esAutomorfoSugerencia(Grafo)
+numComments=11

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paint(java.awt.Graphics)
+comment1.params=vx\ vy
+comment1.target=void\ mostrar(int,\ int)
+comment2.params=
+comment2.target=Reloj()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TiemposSemaforo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TiemposSemaforo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=tV\ tA\ tR
+comment1.target=TiemposSemaforo(double,\ double,\ double)
+comment1.text=\r\n\ poner\ los\ tiempos\ de\ verde,\ amarillo\ y\ rojo\ en\ milisegundos\r\n
+comment2.params=
+comment2.target=double\ getTV()
+comment3.params=
+comment3.target=double\ getTA()
+comment4.params=
+comment4.target=double\ getTR()
+comment5.params=tiempoDeVerde
+comment5.target=void\ setTV(double)
+comment6.params=tiempoDeAmarillo
+comment6.target=void\ setTA(double)
+comment7.params=tiempoDeRojo
+comment7.target=void\ setTR(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\r\n\ \ indica\ el\ tiempo\ de\ pase\ y\ el\ tiempo\ de\ espera\ en\ segundos\ \r\n
+comment9.params=
+comment9.target=double[]\ getTiemposDeCambio()
+numComments=10

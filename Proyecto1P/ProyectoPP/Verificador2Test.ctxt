@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Verificador2Test
+comment0.text=\r\n\ The\ test\ class\ Verificador2Test.\r\n\r\n\ @author\ \ CRISTHIAN\ ZENTENO\ BRA\u00D1EZ\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ testReporteIsomorfismo()
+comment2.params=
+comment2.target=void\ testReporteAutomorfo()
+numComments=3

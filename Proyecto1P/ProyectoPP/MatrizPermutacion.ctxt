@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=tam
+comment0.target=matrizPermutacion(int)
+comment1.params=original
+comment1.target=int[][]\ clonar(int[][])
+comment2.params=tam
+comment2.target=int[][]\ identidad(int)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Clock
+comment1.params=listener
+comment1.target=void\ register(Clock.Listener)
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ stop()
+numComments=4

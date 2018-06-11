@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TiempoReal
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TiempoReal\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TiempoReal()
+comment2.params=minutos
+comment2.target=void\ contarMinutos(int)
+comment3.params=tiempoAPasarEnMinutos\ cambiarEsto\ aEsto
+comment3.target=void\ alPasar(int,\ int,\ int)
+comment4.params=segundos
+comment4.target=void\ pasarTiempo(int)
+numComments=5

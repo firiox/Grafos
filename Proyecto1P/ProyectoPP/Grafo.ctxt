@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Grafo
+comment0.text=\r\n\ LEER\ README.TXT\r\n\ \r\n\ @author\ CRISTHIAN\ ZENTENO\ BRA\u00D1EZ\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=grafo
+comment1.target=Grafo(int[][])
+comment2.params=
+comment2.target=int[][]\ getMatriz()
+comment3.params=
+comment3.target=int\ orden()
+comment4.params=
+comment4.target=int\ tamano()
+comment5.params=
+comment5.target=java.util.ArrayList\ getGradosVertices()
+comment6.params=lista
+comment6.target=int\ suma(int[])
+comment7.params=
+comment7.target=Grafo\ getComplemento()
+numComments=8
